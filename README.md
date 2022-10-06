@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @samansalari
+- 👋 Hi, I’m Saman and you can call me Sami
 - 👀 I’m interested in Cooking, Cycling and IT Technologies.
-- 🌱 I’m currently learning HTML/CSS/JavaScript and Germany language.
-- 💞️ I’m looking to collaborate on web developing.
-- 📫 How to reach me On Tweeter: @Saman_Salari
-
-
+- 🌱 I’m currently learning C++ language.
+- 💞️ I’m looking to collaborate on Game developing.
+- 📫 How to reach me On Tweeter: @SamanSalari
