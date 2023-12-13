@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Saman and you can call me Sami
-- 👀 I’m interested in cooking, cycling, and IT technologies.
-- 🌱 I’m currently learning C++ language.
-- 💞️ I’m looking to collaborate on Web / Game development.
-- 📫 How to reach me On Twitter: @SamanSalari
+- 👋 Hi, I’m Saman and you can call me Sami .
+- 👀 I’m interested in Cooking, Cycling, and IT Technologies .
+- 💞️ I’m looking to collaborate on Web / Game Development .
+- 📫 How to reach me On Twitter: @SamanSalari .
