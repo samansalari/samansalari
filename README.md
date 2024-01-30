@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Saman and you can call me Sami .
-- 👀 I’m looking to collaborate on Web / Game Development .
+- 👋 Experienced Web Designer with 5+ Years in HTML, CSS, JavaScript | Creative UI/UX Specialist
+- 👀 I’m looking to collaborate on Web / Game Development projects.
 - 📫 How to reach me On Twitter: @SamanSalari .
