@@ -94,60 +94,49 @@ const saman = {
 <tr>
 <td valign="top" width="33%">
 
-### 🎨 Front-End Engineering
+### 💻 UI Engineering & Frontend
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
-</div>
-</td>
-
-<td valign="top" width="33%">
-
-### 🎯 Design & Creative
-<div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![InVision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 </td>
 
 <td valign="top" width="33%">
 
-### 🤖 AI & Backend
+### 🤖 AI Engineering & Automation
 <div align="center">
 
+![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4A5568?style=for-the-badge&logo=database&logoColor=white)
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### 🗄️ Database & Backend
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
@@ -157,23 +146,18 @@ const saman = {
 <tr>
 <td colspan="3" align="center">
 
-### ⚡ Tools & DevOps
+### ⚡ Product Tooling & Production
 <div align="center">
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 </td>
@@ -342,11 +326,11 @@ Currently building innovative solutions at the intersection of design, AI, and w
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
 
-### 🎨 Design-First
-I start with **user needs**, not technical constraints. Every pixel serves a purpose, every interaction feels natural.
+### 🎨 Product Design
+I start with **user needs**, building products that solve real problems. From concept to polished interface.
 
-<img src="https://img.shields.io/badge/User_Experience-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pixel_Perfect-FFB6C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 
 </td>
 
@@ -354,11 +338,11 @@ I start with **user needs**, not technical constraints. Every pixel serves a pur
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
 
-### ⚙️ Engineering Excellence
-Clean, maintainable, performant code. I write code that the next developer will thank me for.
+### ⚙️ UI Engineering
+Clean, performant TypeScript code. Building production-ready interfaces with modern frameworks.
 
-<img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Performance-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 </td>
 
@@ -366,11 +350,11 @@ Clean, maintainable, performant code. I write code that the next developer will 
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
 
-### 🤖 AI-Augmented
-Leveraging LLMs, ML, and automation to build smarter products faster. **AI amplifies us.**
+### 🤖 AI Integration
+Leveraging Claude, RAG systems, and n8n automation to build intelligent products.
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 </td>
 
@@ -378,11 +362,11 @@ Leveraging LLMs, ML, and automation to build smarter products faster. **AI ampli
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
 
-### 📦 Full Lifecycle
-From user research and wireframes to deployment and analytics. **End-to-end ownership.**
+### 📦 Ship to Production
+From design to deployment on Railway. PostgreSQL + Prisma for reliable data layer.
 
-<img src="https://img.shields.io/badge/Product_Design-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </td>
 </tr>
@@ -506,17 +490,18 @@ From user research and wireframes to deployment and analytics. **End-to-end owne
 
 ### 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/🧠_Advanced_AI/ML-Integration-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_WebGPU-Next--Gen_Rendering-9C27B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎨_Design_Systems-At_Scale-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✨_Motion_Design-Micro--Interactions-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Web3-Blockchain_Tech-FFB300?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📱_React_Native-Mobile_First-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_RAG_Systems-Advanced_AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_Claude_API-AI_Integration-181818?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔄_n8n_Workflows-Automation-EA4B71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_Framer_Motion-Animations-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Railway_Deployment-Production-0B0D0E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Prisma_ORM-Database-2D3748?style=for-the-badge"/>
 
-```javascript
+```typescript
 const learningPath = {
-  focus: "Cutting-edge technologies",
-  goal: "Build next-gen products",
+  focus: "AI-powered product engineering",
+  tools: ["Claude Code", "Lovable", "n8n", "Make"],
+  goal: "Ship intelligent products faster",
   timeline: "Always evolving 🚀"
 };
 ```
@@ -527,17 +512,18 @@ const learningPath = {
 
 ### 🛠️ Currently Building
 
-<img src="https://img.shields.io/badge/🤖_AI_Design_Tools-Intelligent_UX-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_CAD_Interfaces-3D_Modeling-F85D7F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📦_UI_Libraries-Open_Source-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌐_Web3_Portfolio-Blockchain-FFB300?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎮_Game_Dev-Interactive_Exp-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Analytics_Dashboard-Data_Viz-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_ClawdBot-AI_Automation-181818?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔄_n8n_Workflows-Smart_Automation-EA4B71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚_RAG_Applications-Knowledge_AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_Product_Tools-TypeScript-3178C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚂_Railway_Apps-Production-0B0D0E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💾_Prisma_+_PostgreSQL-Database-336791?style=for-the-badge"/>
 
 ```typescript
 const currentProjects = {
-  count: 6,
-  type: "Innovation-driven",
+  stack: ["TypeScript", "Python", "Claude", "n8n", "PostgreSQL"],
+  tools: ["Claude Code", "Lovable", "Make", "Railway"],
+  focus: "AI-powered automation & product tools",
   impact: "High 📈"
 };
 ```
