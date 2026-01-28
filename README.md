@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saman%20Salari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Engineer%20×%20UI/UX%20Designer%20×%20Product%20Engineer%20×%20AI%20Innovator&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saman%20Salari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Engineer%20×%20UI%20Engineer%20×%20Product%20Designer%20×%20AI%20Engineer&descSize=16&descAlignY=51" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Building+Beautiful+Interfaces;Crafting+User+Experiences;Engineering+AI-Powered+Products;5%2B+Years+of+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Building+Production-Ready+Products;Engineering+AI-Powered+Solutions;Designing+%26+Shipping+Full-Stack+Apps;5%2B+Years+of+Innovation)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://yourportfolio.com">
@@ -48,7 +48,7 @@
 <tr>
 <td width="50%" align="center">
 
-I don't just code interfaces—I craft **experiences**. With 5+ years of building production-ready applications, I bridge the gap between design, engineering, and AI to create products that users love and businesses scale.
+I don't just code interfaces—I **ship products**. With 5+ years of building production-ready applications, I bridge the gap between product design, engineering, and AI to create products that users love and businesses scale.
 
 </td>
 <td width="50%">
@@ -56,14 +56,15 @@ I don't just code interfaces—I craft **experiences**. With 5+ years of buildin
 ```typescript
 const saman = {
   roles: [
-    "Front-End Engineer",
-    "UI/UX Designer",
     "Product Engineer",
+    "UI Engineer",
+    "Product Designer",
     "AI Engineer"
   ],
   specialization: "Turning complex problems into elegant solutions",
-  approach: "Design thinking + Engineering rigor + AI",
-  impact: "Shipping products that matter"
+  approach: "Product thinking + Engineering excellence + AI",
+  impact: "Shipping products that matter",
+  stack: ["TypeScript", "Python", "Claude", "n8n", "PostgreSQL"]
 };
 ```
 
