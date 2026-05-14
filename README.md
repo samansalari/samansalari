@@ -38,10 +38,6 @@
 
 ## 🎯 What I Do
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
 </div>
 
 <table align="center">
@@ -120,9 +116,9 @@ const saman = {
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-4A5568?style=for-the-badge&logo=database&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4A5568?style=for-the-badge&logoColor=white)
 
 </div>
 </td>
@@ -134,6 +130,7 @@ const saman = {
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -186,6 +183,37 @@ const saman = {
 
 <div align="center">
 
+### 🗳️ VotePulse — Election Intelligence
+
+[![Live Site](https://img.shields.io/badge/Live_Site-votepulse.je-1a2b4a?style=for-the-badge&logo=vercel&logoColor=gold)](https://votepulse.je)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samansalari/JerseyIsland-2026)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+
+**Next.js 15 × Dual-LLM AI × PostgreSQL × Railway**
+
+Public, non-partisan election intelligence platform for Jersey's 2026 General Election — candidate profiles, AI manifesto summaries, side-by-side comparisons, and a live Public Pulse dashboard.
+
+</div>
+
+#### ✨ Key Features
+- 🤖 Dual-LLM supervision: Grok writes, Kimi K2.6 fact-checks every summary
+- 📊 Real-time Public Pulse — community polling & live leaderboard
+- ⚖️ Side-by-side candidate comparison across 10 policy issues
+- 🔒 Admin dashboard with Supabase Auth + AI batch enrichment
+
+#### 🔧 Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
 ### 🎨 Interactive Room Designer CAD
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samansalari)
@@ -199,7 +227,7 @@ A sophisticated web-based CAD tool for spatial design planning with performance-
 
 </div>
 
-#### ✨ Key Achievements
+#### ✨ Key Features
 - ⚡ Real-time 3D rendering engine
 - 🎯 Intelligent snap-to-grid system
 - 📤 Export to industry-standard formats
@@ -208,10 +236,12 @@ A sophisticated web-based CAD tool for spatial design planning with performance-
 #### 🔧 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logoColor=white)
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 <div align="center">
@@ -229,7 +259,7 @@ Professional kitchen planning application with measurement precision and materia
 
 </div>
 
-#### ✨ Key Achievements
+#### ✨ Key Features
 - 📐 Accurate dimensional modeling
 - 🎨 Material and texture library
 - 💰 Cost estimation engine
@@ -241,9 +271,7 @@ Professional kitchen planning application with measurement precision and materia
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 <div align="center">
@@ -261,7 +289,7 @@ Open-source browser extension with intelligent ad-blocking and privacy-first arc
 
 </div>
 
-#### ✨ Key Achievements
+#### ✨ Key Features
 - 🎯 Pattern-based content filtering
 - ⚡ Minimal performance overhead
 - 🔒 Privacy-first architecture
@@ -271,34 +299,6 @@ Open-source browser extension with intelligent ad-blocking and privacy-first arc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Chrome APIs](https://img.shields.io/badge/Chrome_APIs-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![Web Extensions](https://img.shields.io/badge/Web_Extensions-FF6611?style=flat-square&logo=firefox&logoColor=white)
-
-</td>
-
-<td width="50%">
-
-<div align="center">
-
-### 🎮 More Coming Soon...
-
-[![GitHub](https://img.shields.io/badge/Explore_All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samansalari?tab=repositories)
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
-
-**AI-Powered Design Tools × Web3 × More**
-
-Currently building innovative solutions at the intersection of design, AI, and web technologies.
-
-</div>
-
-#### 🔮 In Development
-- 🤖 AI-powered design assistant
-- 🎨 Next-gen component library
-- 🌐 Web3 portfolio platform
-- 📱 Mobile-first frameworks
-
-#### 💡 Open to Collaborate
-![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat-square&logo=open-source-initiative&logoColor=white)
-![Contribute](https://img.shields.io/badge/Contribute-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 </tr>
@@ -363,7 +363,7 @@ Leveraging Claude, RAG systems, and n8n automation to build intelligent products
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
 
 ### 📦 Ship to Production
-From design to deployment on Railway. PostgreSQL + Prisma for reliable data layer.
+From design to deployment on Railway. PostgreSQL + Drizzle/Prisma for a reliable data layer.
 
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -382,7 +382,7 @@ From design to deployment on Railway. PostgreSQL + Prisma for reliable data laye
 
 <div align="center">
 
-## 📊 GitHub Analytics & Performance
+## 📊 GitHub Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 
@@ -394,12 +394,12 @@ From design to deployment on Railway. PostgreSQL + Prisma for reliable data laye
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samansalari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&hide_title=false&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samansalari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&count_private=true&include_all_commits=true" width="100%"/>
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samansalari&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=samansalari&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" width="100%"/>
 
 </td>
 </tr>
@@ -412,21 +412,13 @@ From design to deployment on Railway. PostgreSQL + Prisma for reliable data laye
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samansalari&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samansalari&theme=radical&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samansalari&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-### 🎯 Metrics
+### 🎯 Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samansalari&theme=radical" width="100%"/>
 
@@ -454,17 +446,6 @@ From design to deployment on Railway. PostgreSQL + Prisma for reliable data laye
 </td>
 </tr>
 </table>
-
-### 🏆 Achievement Highlights
-
-![Commits](https://img.shields.io/badge/Total_Commits-10k%2B-F85D7F?style=for-the-badge&logo=git&logoColor=white)
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-500%2B-F8D866?style=for-the-badge&logo=github&logoColor=white)
-![Code Reviews](https://img.shields.io/badge/Code_Reviews-300%2B-4CAF50?style=for-the-badge&logo=github&logoColor=white)
-![Issues Resolved](https://img.shields.io/badge/Issues_Resolved-200%2B-2196F3?style=for-the-badge&logo=github&logoColor=white)
-
-### 💻 Coding Activity
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@samansalari&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&layout=compact" width="50%"/>
 
 </div>
 
@@ -495,7 +476,7 @@ From design to deployment on Railway. PostgreSQL + Prisma for reliable data laye
 <img src="https://img.shields.io/badge/🔄_n8n_Workflows-Automation-EA4B71?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎨_Framer_Motion-Animations-0055FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🚀_Railway_Deployment-Production-0B0D0E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Prisma_ORM-Database-2D3748?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Drizzle_ORM-Database-C5F74F?style=for-the-badge"/>
 
 ```typescript
 const learningPath = {
@@ -512,12 +493,12 @@ const learningPath = {
 
 ### 🛠️ Currently Building
 
-<img src="https://img.shields.io/badge/🤖_ClawdBot-AI_Automation-181818?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗳️_VotePulse-Election_Intelligence-1a2b4a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🔄_n8n_Workflows-Smart_Automation-EA4B71?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📚_RAG_Applications-Knowledge_AI-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎨_Product_Tools-TypeScript-3178C6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🚂_Railway_Apps-Production-0B0D0E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💾_Prisma_+_PostgreSQL-Database-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💾_Drizzle_+_PostgreSQL-Database-336791?style=for-the-badge"/>
 
 ```typescript
 const currentProjects = {
@@ -548,105 +529,6 @@ const currentProjects = {
 
 <div align="center">
 
-## 🤝 Let's Build Something Amazing Together
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80" height="80">
-
-### 🚀 Product Innovation
-Building the next generation of web and AI applications
-
-<img src="https://img.shields.io/badge/Innovative_Ideas-Welcome-FF5722?style=flat-square"/>
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="80" height="80">
-
-### 🎨 Design Systems
-Creating scalable, beautiful component libraries
-
-<img src="https://img.shields.io/badge/Design_Excellence-Always-E91E63?style=flat-square"/>
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80" height="80">
-
-### 🤖 AI-Powered Tools
-Integrating intelligence into user experiences
-
-<img src="https://img.shields.io/badge/Future_Ready-Today-412991?style=flat-square"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d179ad-4329-4db0-b0d4-2e93a2dcc95d.png" width="80" height="80">
-
-### 🌟 Open Source
-Contributing to the developer community
-
-<img src="https://img.shields.io/badge/Community_First-Always-4CAF50?style=flat-square"/>
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" height="80">
-
-### 💼 Freelance Work
-Available for exciting projects and collaborations
-
-<img src="https://img.shields.io/badge/Available-Now-00BCD4?style=flat-square"/>
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4940-8596-c63f7e6b696a.png" width="80" height="80">
-
-### 🤝 Partnerships
-Building strategic technical relationships
-
-<img src="https://img.shields.io/badge/Let's_Connect-Ready-FFB300?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎯 My Approach
-
-```typescript
-const philosophy = {
-  belief: "Best products = Designers + Engineers + Users",
-  mission: "Create experiences that matter",
-  value: "Quality over quantity, always",
-  mindset: "Try to be positive! 🌟"
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-<div align="center">
-
 ## 📫 Let's Connect
 
 <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.gif" width="100">
@@ -656,7 +538,7 @@ const philosophy = {
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="mailto:your.email@example.com">
+<a href="mailto:me@samansalari.com">
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="60"><br>
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -670,14 +552,14 @@ const philosophy = {
 </td>
 
 <td align="center" width="20%">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/samansalari">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"><br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 
 <td align="center" width="20%">
-<a href="https://yourportfolio.com">
+<a href="https://samansalari.com">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"><br>
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
@@ -691,8 +573,6 @@ const philosophy = {
 </td>
 </tr>
 </table>
-
-### 💬 Quick Response Time
 
 <img src="https://img.shields.io/badge/Response_Time-24_Hours-4CAF50?style=for-the-badge&logo=clock&logoColor=white"/>
 <img src="https://img.shields.io/badge/Time_Zone-GMT-2196F3?style=for-the-badge&logo=google-calendar&logoColor=white"/>
@@ -710,8 +590,6 @@ const philosophy = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" width="600"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-
 ### ✨ Core Values
 
 <img src="https://img.shields.io/badge/🎨_User--Centered-Design_First-FF6F61?style=for-the-badge"/>
@@ -721,37 +599,7 @@ const philosophy = {
 <img src="https://img.shields.io/badge/🧪_Quality-No_Compromises-E91E63?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🌱_Growth-Always_Learning-00BCD4?style=for-the-badge"/>
 
-### 🌟 Try to be positive!
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Building+the+future%2C+one+pixel+at+a+time;Turning+ideas+into+beautiful+realities;Code+with+passion%2C+design+with+purpose;Let's+create+something+amazing+together!" alt="Typing SVG"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Profile Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=samansalari&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/samansalari?style=for-the-badge&color=F8D866&logo=github&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/samansalari?style=for-the-badge&color=4CAF50&logo=github&label=TOTAL+STARS)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-### 🎯 Let's Build The Future Together
-
-<a href="https://github.com/samansalari">
-<img src="https://img.shields.io/badge/⭐_Star_My_Repos-F85D7F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/samansalari?tab=followers">
-<img src="https://img.shields.io/badge/👥_Follow_Me-F8D866?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://twitter.com/SamanSalari">
-<img src="https://img.shields.io/badge/🐦_Connect_On_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
