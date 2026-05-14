@@ -179,7 +179,7 @@ const saman = {
 
 <table>
 <tr>
-<td width="50%">
+<td colspan="2">
 
 <div align="center">
 
@@ -188,13 +188,20 @@ const saman = {
 [![Live Site](https://img.shields.io/badge/Live_Site-votepulse.je-1a2b4a?style=for-the-badge&logo=vercel&logoColor=gold)](https://votepulse.je)
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samansalari/JerseyIsland-2026)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+</div>
+
+<table>
+<tr>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="320">
 
 **Next.js 15 × Dual-LLM AI × PostgreSQL × Railway**
 
-Public, non-partisan election intelligence platform for Jersey's 2026 General Election — candidate profiles, AI manifesto summaries, side-by-side comparisons, and a live Public Pulse dashboard.
+</td>
+<td width="60%">
 
-</div>
+Public, non-partisan election intelligence platform for Jersey's 2026 General Election — candidate profiles, AI manifesto summaries, side-by-side comparisons, and a live Public Pulse dashboard.
 
 #### ✨ Key Features
 - 🤖 Dual-LLM supervision: Grok writes, Kimi K2.6 fact-checks every summary
@@ -206,10 +213,18 @@ Public, non-partisan election intelligence platform for Jersey's 2026 General El
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
+</tr>
+</table>
 
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 <div align="center">
@@ -239,9 +254,7 @@ A sophisticated web-based CAD tool for spatial design planning with performance-
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logoColor=white)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 <div align="center">
@@ -271,31 +284,20 @@ Professional kitchen planning application with measurement precision and materia
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 </td>
+</tr>
 
-<td width="50%">
-
-<div align="center">
+<tr>
+<td colspan="2" align="center">
 
 ### 🛡️ AdBlock Chrome Extension
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samansalari)
 [![Chrome Store](https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200">
 
-**JavaScript × Browser APIs × Privacy**
+**JavaScript × Browser APIs × Privacy** — Open-source browser extension with intelligent ad-blocking and privacy-first architecture.
 
-Open-source browser extension with intelligent ad-blocking and privacy-first architecture.
-
-</div>
-
-#### ✨ Key Features
-- 🎯 Pattern-based content filtering
-- ⚡ Minimal performance overhead
-- 🔒 Privacy-first architecture
-- 👥 Active user community
-
-#### 🔧 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Chrome APIs](https://img.shields.io/badge/Chrome_APIs-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![Web Extensions](https://img.shields.io/badge/Web_Extensions-FF6611?style=flat-square&logo=firefox&logoColor=white)
