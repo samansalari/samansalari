@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saman%20Salari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Engineer%20×%20UI%20Engineer%20×%20Product%20Designer%20×%20AI%20Engineer&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saman%20Salari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Engineer%20×%20AI%20Engineer&descSize=16&descAlignY=51" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Building+Production-Ready+Products;Engineering+AI-Powered+Solutions;Designing+%26+Shipping+Full-Stack+Apps;5%2B+Years+of+Innovation)](https://git.io/typing-svg)
 
