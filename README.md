@@ -1,4 +1,4 @@
-# Saman Salari
+# Saman 
 
 Product and AI engineer in England. I build web apps and LLM-backed tools, mostly in TypeScript and Python.
 
